@@ -1,16 +1,41 @@
 {
   "files": {
-    "main.css": "/cowRunner/static/css/main.073c9b0a.css",
-    "main.js": "/cowRunner/static/js/main.debccf20.js",
-    "static/js/787.d5d6a868.chunk.js": "/cowRunner/static/js/787.d5d6a868.chunk.js",
-    "static/media/logo.svg": "/cowRunner/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
-    "index.html": "/cowRunner/index.html",
-    "main.073c9b0a.css.map": "/cowRunner/static/css/main.073c9b0a.css.map",
-    "main.debccf20.js.map": "/cowRunner/static/js/main.debccf20.js.map",
-    "787.d5d6a868.chunk.js.map": "/cowRunner/static/js/787.d5d6a868.chunk.js.map"
+    "main.css": "/cowrRunner/static/css/main.2186a6dd.chunk.css",
+    "main.js": "/cowrRunner/static/js/main.91a6eab6.chunk.js",
+    "main.js.map": "/cowrRunner/static/js/main.91a6eab6.chunk.js.map",
+    "runtime-main.js": "/cowrRunner/static/js/runtime-main.f350422b.js",
+    "runtime-main.js.map": "/cowrRunner/static/js/runtime-main.f350422b.js.map",
+    "static/js/2.48894e68.chunk.js": "/cowrRunner/static/js/2.48894e68.chunk.js",
+    "static/js/2.48894e68.chunk.js.map": "/cowrRunner/static/js/2.48894e68.chunk.js.map",
+    "static/js/3.2e927499.chunk.js": "/cowrRunner/static/js/3.2e927499.chunk.js",
+    "static/js/3.2e927499.chunk.js.map": "/cowrRunner/static/js/3.2e927499.chunk.js.map",
+    "index.html": "/cowrRunner/index.html",
+    "static/css/main.2186a6dd.chunk.css.map": "/cowrRunner/static/css/main.2186a6dd.chunk.css.map",
+    "static/js/2.48894e68.chunk.js.LICENSE.txt": "/cowrRunner/static/js/2.48894e68.chunk.js.LICENSE.txt",
+    "static/media/01-min.6420e751.png": "/cowrRunner/static/media/01-min.6420e751.png",
+    "static/media/02-min.c1e91c48.png": "/cowrRunner/static/media/02-min.c1e91c48.png",
+    "static/media/03-min.0b584d19.png": "/cowrRunner/static/media/03-min.0b584d19.png",
+    "static/media/04-min.25bc0858.png": "/cowrRunner/static/media/04-min.25bc0858.png",
+    "static/media/05-min.1a95094c.png": "/cowrRunner/static/media/05-min.1a95094c.png",
+    "static/media/06-min.bf151ad2.png": "/cowrRunner/static/media/06-min.bf151ad2.png",
+    "static/media/index.css": "/cowrRunner/static/media/Poppins-Medium.673ed423.ttf",
+    "static/media/Music-JTI.4577846a.mp4": "/cowrRunner/static/media/Music-JTI.4577846a.mp4",
+    "static/media/Road-new.e56aa621.png": "/cowrRunner/static/media/Road-new.e56aa621.png",
+    "static/media/App.css": "/cowrRunner/static/media/SiyamRupaliANSI.afe038d6.ttf",
+    "static/media/bangladesh.ce2ddb66.png": "/cowrRunner/static/media/bangladesh.ce2ddb66.png",
+    "static/media/bg.eed02beb.png": "/cowrRunner/static/media/bg.eed02beb.png",
+    "static/media/breaker-new.8228531e.png": "/cowrRunner/static/media/breaker-new.8228531e.png",
+    "static/media/hdr.508c1b32.hdr": "/cowrRunner/static/media/hdr.508c1b32.hdr",
+    "static/media/head.9f1dd2af.glb": "/cowrRunner/static/media/head.9f1dd2af.glb",
+    "static/media/jtiBreaker-new.53f88270.png": "/cowrRunner/static/media/jtiBreaker-new.53f88270.png",
+    "static/media/jtiPlane-new.9d645bbd.png": "/cowrRunner/static/media/jtiPlane-new.9d645bbd.png",
+    "static/media/nglass.f902ce94.glb": "/cowrRunner/static/media/nglass.f902ce94.glb",
+    "static/media/toon.4f955f9a.mp3": "/cowrRunner/static/media/toon.4f955f9a.mp3"
   },
   "entrypoints": [
-    "static/css/main.073c9b0a.css",
-    "static/js/main.debccf20.js"
+    "static/js/runtime-main.f350422b.js",
+    "static/js/2.48894e68.chunk.js",
+    "static/css/main.2186a6dd.chunk.css",
+    "static/js/main.91a6eab6.chunk.js"
   ]
 }
